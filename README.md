@@ -1,5 +1,5 @@
 # Funskool-Puzzle
-Electronic Puzzle for a Children of age group 6-12 yrs 
+Electronic Puzzle for a children of age group 6-12 yrs 
 
 Project was proposed under the event named: "Toycathon", an initiative to make India independent in the gaming sector. 
 
